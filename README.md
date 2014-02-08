@@ -7,5 +7,3 @@ Adjust the maskIt function as desired.
 
 Usage: ipmask.pl <input file>
 
-</end>
-
